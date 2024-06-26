@@ -17,7 +17,7 @@
 
 ## 界面
 
-![image-20240626092825400](.\README.assets\1.png)
+![](.\README.assets\1.png)
 
 ## 参数
 
