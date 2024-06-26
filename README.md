@@ -17,7 +17,7 @@
 
 ## 界面
 
-![image-20240626092825400](C:\Users\15787\AppData\Roaming\Typora\typora-user-images\image-20240626092825400.png)
+![image-20240626092825400](.\README.assets\1.png)
 
 ## 参数
 
